@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-	- Principal Investigators
+	- Researchers
 ---
 
 Susana Borromeo es Dra. Ingeniero Industrial por la Universidad Politécnica de Madrid, donde comenzó su trayectoria profesional desarrollando sistemas electrónicos digitales en la División de Ingeniería Electrónica de la UPM.

@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
--Principal Investigators
+- Researchers
 ---
 Antonio José del-Ama started his research career in 2006 at the Biomechanics and Assistive Technology Unit of the National Hospital for Paraplegics, becoming Group Leader from 2017 to 2019. From 2015 to 2019 he also held a position as Assistant Professor at Castilla-La Mancha and Rey Juan Carlos Universities. In 2011 he was awarded the Technological Innovation Award from the Rodolfo Benito Samaniego Foundation. In 2019 left the Biomechanics laboratory and obtained a tenured position as Associate Professor in the Electronic Technology department at Rey Juan Carlos University. He is also a founder and member of the Commission of Medical and Health Engineering of the Association of Industrial Engineers of Madrid since 2012, and founder of GoGoa Mobility Robots. He has participated as a researcher and PI in several regional, national, and European projects, related to the development and evaluation of wearable robotic and neuroprosthetic technology for walking assistance.  Between 2008 and 2012 he was an intern at the Neural Engineering Group at CSIC (formerly the BioEngineering Group), getting his Ph.D. in hybrid lower limb exoskeletons for walking assistance.
 
