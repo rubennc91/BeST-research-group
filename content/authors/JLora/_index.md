@@ -49,10 +49,10 @@ social:
     icon_pack: fab
     link: https://twitter.com/julios_lora
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Julio-Lora-Millan
 	- icon: google-scholar
-		icon_pack: ai
+		icon_pack: fab
 		link: https://scholar.google.es/citations?user=6FaZevUAAAAJ
   - icon: linkedin
     icon_pack: fab
