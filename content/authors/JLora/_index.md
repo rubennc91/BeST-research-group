@@ -51,9 +51,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Julio-Lora-Millan
-	- icon: google-scholar
-		icon_pack: fab
-		link: https://scholar.google.es/citations?user=6FaZevUAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b
