@@ -74,8 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-	- Researchers
-	
+- Researchers
 ---
 Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
