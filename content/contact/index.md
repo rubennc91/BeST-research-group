@@ -16,14 +16,14 @@ sections:
       address:
         street: Tulipán Street, 0
         city: Móstoles
-        region: MA
+        region: Madrid
         postcode: '28933'
         country: Spain
         country_code: ES
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '40.335548'
+        longitude: '-3.877743'
+      directions: Departamental II - Office 166
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
@@ -44,7 +44,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 
