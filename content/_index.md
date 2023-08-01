@@ -57,13 +57,12 @@ sections:
       css_class: fullscreen
   
   - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
+    content: | 
         {{< cta cta_link="people/" cta_text="Meet the team →" >}}
         {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
-
-    design:
+      title:
+      subtitle:
+      text:
+      design:
       columns: '1'
 ---
