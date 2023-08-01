@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        BeST
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Bioengineering Systems and Technologies Research Group** is dedicated to advancing cutting-edge technologies in bioengineering, with a focus on improving people's quality of life and promoting health and well-being. Our multidisciplinary team consists of highly skilled researchers who are passionate about innovation in the field of bioengineering.
   
   - block: collection
     content:
