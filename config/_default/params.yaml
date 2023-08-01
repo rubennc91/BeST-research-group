@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} BeST Research Group. This website is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -115,4 +115,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla
