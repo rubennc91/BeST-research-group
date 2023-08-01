@@ -62,7 +62,7 @@ sections:
       subtitle:
       text: |
         {{< cta cta_link="people/" cta_text="Meet the team →" >}}
-				{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+        {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
 
     design:
       columns: '1'
