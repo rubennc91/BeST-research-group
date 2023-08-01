@@ -1,0 +1,67 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Hardware Architectures for Real-Time Medical Imaging
+subtitle: ''
+summary: ''
+authors:
+- Eduardo Alcaín
+- Pedro R. Fernández
+- Rubén Nieto
+- Antonio S. Montemayor
+- Jaime Vilas
+- Adrian Galiana-Bordera
+- Pedro Miguel Martinez-Girones
+- Carmen Prieto-de-la-Lastra
+- Borja Rodriguez-Vila
+- Marina Bonet
+- Cristina Rodriguez-Sanchez
+- Imene Yahyaoui
+- Norberto Malpica
+- Susana Borromeo
+- Felipe Machado
+- Angel Torrado-Carvajal
+tags: []
+categories: []
+date: '2021-12-01'
+lastmod: 2023-08-01T10:20:13+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-08-01T08:20:12.901962Z'
+publication_types:
+- '2'
+abstract: Medical imaging is considered one of the most important advances in the
+  history of medicine and has become an essential part of the diagnosis and treatment
+  of patients. Earlier prediction and treatment have been driving the acquisition
+  of higher image resolutions as well as the fusion of different modalities, raising
+  the need for sophisticated hardware and software systems for medical image registration,
+  storage, analysis, and processing. In this scenario and given the new clinical pipelines
+  and the huge clinical burden of hospitals, these systems are often required to provide
+  both highly accurate and real-time processing of large amounts of imaging data.
+  Additionally, lowering the prices of each part of imaging equipment, as well as
+  its development and implementation, and increasing their lifespan is crucial to
+  minimize the cost and lead to more accessible healthcare. This paper focuses on
+  the evolution and the application of different hardware architectures (namely, CPU,
+  GPU, DSP, FPGA, and ASIC) in medical imaging through various specific examples and
+  discussing different options depending on the specific application. The main purpose
+  is to provide a general introduction to hardware acceleration techniques for medical
+  imaging researchers and developers who need to accelerate their implementations.
+publication: '*Electronics*'
+url_pdf: https://www.mdpi.com/2079-9292/10/24/3118
+doi: 10.3390/electronics10243118
+---
