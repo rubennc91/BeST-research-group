@@ -10,16 +10,16 @@ sections:
       title: BeST - Bioengineering Systems and Technologies Research Group
       text: |-
         Welcome to the contact page of the Bioengineering Systems and Technologies (BeST) Research Group at Universidad Rey Juan Carlos!
-				
+        
       email: antonio.ama@urjc.es
       phone: +34 91 123 4567
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Tulipán Street, 0
+        city: Móstoles
+        region: MA
+        postcode: '28933'
+        country: Spain
+        country_code: ES
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
