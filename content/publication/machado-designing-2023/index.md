@@ -26,7 +26,7 @@ draft: false
 image:
   caption: 'Schematic representation of the proposed sandbox. The sand is not always confined in a box. This is a simplified drawing to show only the most representative parts. Besides, most of the mechanical and electronic components are out of view because they are under the fixed flat surface. Dimensions are approximate.'
   focal_point: 'Center'
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
