@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the BeST Research Group
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: 🍕📖 Lunch & Learn ✍️🍻
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 🫶 Cutting-Edge Bioengineering Systems and Technologies Research Lab.
+        content: 'Join our innovative Research Group and be a part of shaping the future of healthcare and well-being!'
         align: right
         background:
           image:
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
 ---
