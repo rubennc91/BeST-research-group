@@ -9,10 +9,10 @@ sections:
     content:
       title: BeST - Bioengineering Systems and Technologies Research Group
       text: |-
-        ¡Bienvenido a la página de contacto del Grupo de Investigación en Bioengineering Systems and Technologies (BeST) de la Universidad Rey Juan Carlos!
+        Welcome to the contact page of the Bioengineering Systems and Technologies (BeST) Research Group at Universidad Rey Juan Carlos!
 				
-      email: test@example.org
-      phone: 888 888 88 88
+      email: antonio.ama@urjc.es
+      phone: +34 91 123 4567
       address:
         street: 450 Serra Mall
         city: Stanford
