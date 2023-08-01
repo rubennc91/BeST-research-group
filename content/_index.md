@@ -11,7 +11,7 @@ sections:
         BeST
         Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome2.jpg
       text: |
         <br>
         
