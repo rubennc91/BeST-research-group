@@ -1,5 +1,5 @@
 # Theme metadata
-name = "myowntheme"
+name = myowntheme
 
 # Is theme light or dark?
 light = true
