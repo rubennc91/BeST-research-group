@@ -49,7 +49,7 @@ social:
   link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 - icon: envelope
   icon_pack: fas
-  link:"mailto:ruben.nieto@urjc.es"
+  link: 'mailto:ruben.nieto@urjc.es'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rubennc91
