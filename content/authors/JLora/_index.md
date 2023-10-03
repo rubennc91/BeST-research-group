@@ -46,7 +46,7 @@ social:
   link: https://gestion2.urjc.es/pdi/ver/julio.lora
 - icon: envelope
   icon_pack: fas
-  link:"mailto:julio.lora@urjc.es"
+  link: 'mailto:julio.lora@urjc.es'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=6FaZevUAAAAJ&hl=es
