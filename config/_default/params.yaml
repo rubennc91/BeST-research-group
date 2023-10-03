@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: Cupcake
+  theme_day: myowntheme
   theme_night: 
   font: native
   font_size: L
