@@ -1,59 +1,58 @@
 ---
 # Display name
-title: Julio Salvador Lora Millán
-
-# Full Name (for SEO)
-first_name: Julio J.
-last_name: Lora-Millán
+title: Julio S. Lora Millán
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of ...
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Rey Juan Carlos University
-    url: 'https://www.urjc.es/'
+- name: Rey Juan Carlos University
+  url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, ...
-
-interests:
-  - Interest One.
-  - Interest Two.
-  - Interest Three.
+bio: My research interests include rehabilitation robotics and assistive technology.
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: Ph.D. in Automatic Control and Robotics
+    institution: Universidad Politécnica de Madrid
+    year: 2020
+  - course: Automatic Control and Industrial Electronic Engineering
+    institution: Universidad de Córdoba
+    year: 2016
+  - course: Industrial Electronics Engineering Technician
+    institution: Universidad de Córdoba
+    year: 2012
+
+interests:
+- Robotics
+- Control Engineering
+- Assistive technologies
+- Bioengineering
+- Aplied Neuroscience
+
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:julio.lora@urjc.es'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/julios_lora
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Julio-Lora-Millan
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b
+- icon: university
+  icon_pack: fas
+  link: https://gestion2.urjc.es/pdi/ver/julio.lora
+- icon: envelope
+  icon_pack: fas
+  link:"mailto:julio.lora@urjc.es"
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.es/citations?user=6FaZevUAAAAJ&hl=es
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "julio.lora@urjc.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,13 +68,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+- Researchers
 ---
+Julio Lora is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Industrial Robotics and Control Engineering and his main research interests include rehabilitation robotics, assistive technologies and bioenegineering.
 
-Julio Salvador Lora Millán finalizó en 2012 sus estudios de Ingeniería Técnica Industrial, con especialidad en Electrónica Industrial, en la Universidad de Córdoba, cuyo Proyecto de Fin de Carrera obtuvo el Primer Premio del Colegio Oficial de Peritos e Ingenieros Técnicos de Córdoba. En 2015 se graduó como Ingeniero en Automática y Electrónica Industrial, también en la Universidad de Córdoba, donde fue galardonado con el Premio Extraordinario de fin de Carrera. Así mismo, fue reconocido con un Tercer Premio Nacional de Fin de Carrera de Educación Universitaria en el área de Ingeniería y Arquitectura.
+He received his undergaduated formation at the University of Cordoba where he obtained a Bachelor's and Master's degree in Automatic Control and Industrial Electronic Engineering. In 2022, he obtained his PhD in Automatic Control and Robotics at Technical University of Madrid, while working as pre-doctoral researcher at the Centre of Automation and Robotics from the Spanish National Research Council. 
 
-Desde 2012 a 2015, colaboró con el grupo de Electrónica Industrial e Instrumentación de la Universidad de Córdoba, donde desarrolló equipos de instrumentación para la monitorización de procesos erosivos en terreno agrario. En 2016 se unió el grupo de Ingeniería Neural y Cognitiva, perteneciente al Centro de Automática y Robótica (CSIC), donde ha desarrollado su labor investigadora hasta 2022. Participando en varios proyectos de investigación nacionales e internacionales.
 
-En 2018, además de comenzar su formación doctoral en el Programa de Doctorado en Automática y Robótica de la Universidad Politécnica de Madrid, resultó beneficiario del programa de Ayudas para la Formación de Profesorado Universitario del Ministerio de Ciencia, Innovación y Universidades. Durante 2020 realizó una estancia en el Instituto de Biorobótica de la Scuola Superiore Sant'Anna en Pisa (Italia). En Septiembre de 2022 defendió su Tesis Doctoral, titulada "Control strategies for robtic exoskeletons to assist post-stroke hemiparetic gait through technology embodiment", consiguiendo el grado de Doctor con calificación Cum Laude.
-
-Desde 2022 es Profesor Visitante en el área de Tecnología Electrónica de la Universidad Rey Juan Carlos. Sus intereses se centran en el desarrollo de sistemas robóticos y electrónicos para la asistencia de usuarios con discapacidad, especialmente desde el punto de vista de los algoritmos de control y de interacción con el ser humano. Los resultados de sus investigaciones han sido expuestos en conferencias nacionales e internacionales, así como publicadas en revistas de alto impacto.

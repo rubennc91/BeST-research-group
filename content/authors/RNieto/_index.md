@@ -49,7 +49,7 @@ social:
   link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:ruben.nieto@urjc.es".
+  link:"mailto:ruben.nieto@urjc.es"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rubennc91
@@ -59,6 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rubennc91
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/rubennietoc/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruben3101@gmail.com"
+email: "ruben.nieto@urjc.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
