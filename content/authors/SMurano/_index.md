@@ -49,7 +49,7 @@ social:
   link: https://gestion2.urjc.es/pdi/ver/santiago.murano
 - icon: envelope
   icon_pack: fas
-  link:"mailto:santiago.murano@urjc.es"
+  link: 'mailto:santiago.murano@urjc.es'
 #- icon: twitter
 # icon_pack: fab
 # link: https://twitter.com/rubennc91

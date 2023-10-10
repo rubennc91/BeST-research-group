@@ -46,7 +46,7 @@ social:
   link: https://gestion2.urjc.es/pdi/ver/pedro.barbosa
 - icon: envelope
   icon_pack: fas
-  link: mailto:pedro.barbosa@urjc.es
+  link: 'mailto:pedro.barbosa@urjc.es'
 - icon: WebofScience
   icon_pack: fab
   link: https://www.webofscience.com/wos/author/record/1393260
