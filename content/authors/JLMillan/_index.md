@@ -21,12 +21,12 @@ education:
   - course: Ph.D. in Automatic Control and Robotics
     institution: Universidad Politécnica de Madrid
     year: 2020
-  - course: Automatic Control and Industrial Electronic Engineering
-    institution: Universidad de Córdoba
-    year: 2016
-  - course: Industrial Electronics Engineering Technician
-    institution: Universidad de Córdoba
-    year: 2012
+#   - course: Automatic Control and Industrial Electronic Engineering
+#     institution: Universidad de Córdoba
+#     year: 2016
+#   - course: Industrial Electronics Engineering Technician
+#     institution: Universidad de Córdoba
+#     year: 2012
 
 interests:
 - Robotics
@@ -37,9 +37,7 @@ interests:
 
 
 # Social/Academic Networking
-#  For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#  form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: university
   icon_pack: fas
@@ -54,10 +52,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b/
 # Link to a PDF of your resume/CV from the About widget.
-#  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#  - icon: cv
-#  icon_pack: ai
-#    link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "julio.lora@urjc.com"
@@ -66,7 +61,6 @@ email: "julio.lora@urjc.com"
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
