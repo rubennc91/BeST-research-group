@@ -56,7 +56,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 #  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
-#    icon_pack: ai
+#  icon_pack: ai
 #    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -73,3 +73,4 @@ user_groups:
 Julio Lora is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Industrial Robotics and Control Engineering and his main research interests include rehabilitation robotics, assistive technologies and bioenegineering.
 
 He received his undergaduated formation at the University of Cordoba where he obtained a Bachelor's and Master's degree in Automatic Control and Industrial Electronic Engineering. In 2022, he obtained his PhD in Automatic Control and Robotics at Technical University of Madrid, while working as pre-doctoral researcher at the Centre of Automation and Robotics from the Spanish National Research Council.
+
