@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Pedro R. Fernández Barbosa
+title: Pedro Rafael Fernández Barbosa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Visitor Professor
 
 # Organizations/Affiliations
 organizations:
@@ -14,30 +14,27 @@ organizations:
   url: "https://www.urjc.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+bio: My research interests include Design of Electronic Systems, Measurement Systems, Computer Vision, System-on-Chip and Embedeed Systems among others.
 
 education:
   courses:
-  - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
+  - course: Ph.D. in Electronics. Multisensorial systems and robotic systems
     institution: University of Alcala
-    year: 2020
-#  - course: M.Sc. in Telecommunication Engineering
-#    institution: University of Alcala
-#    year: 2016
-#  - course: B.Sc. in Telecommunication Technologies Engineering
-#    institution: University of Alcala
-#    year: 2015
+    year: 2011
+#  - course: M.Sc. in Telecommunication Systems
+#   institution: Universidad de Oriente, Cuba
+#   year: 2000
+#  - course: Engineer in Electronics
+#    institution: Universidad de Oriente, Cuba
+#    year: 1994
 
 interests:
+- Design of Electronic Systems and Measurement
 - System-on-Chip
-- Signal Processing
+- Signal Processing and Sensoring Devices
 - Embedded Systems
-- Robotics
-- Sensor Networks
-- Multi-core Processor
-- Power-Line Communications
-- Non-Intrusive Load Monitoring
-
+- Computer Vision
+- Sensoring Networks
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,22 +43,22 @@ interests:
 social:
 - icon: university
   icon_pack: fas
-  link: https://gestion2.urjc.es/pdi/ver/ruben.nieto
+  link: https://gestion2.urjc.es/pdi/ver/pedro.barbosa
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ruben.nieto@urjc.es'
-- icon: twitter
+  link: mailto:pedro.barbosa@urjc.es
+- icon: WebofScience
   icon_pack: fab
-  link: https://twitter.com/rubennc91
+  link: https://www.webofscience.com/wos/author/record/1393260
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=YvSfYZUAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rubennc91
+  link: https://scholar.google.es/citations?user=ICbHVosAAAAJ&hl=es&oi=ao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rubennietoc/
+  link: http://www.linkedin.com/in/pedro-r-fernández-barbosa-23087375
+- icon: #
+  icon_pack: #
+  link: #
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ruben.nieto@urjc.com"
+email: "pedro.barbosa@urjc.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -79,8 +76,6 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
+Pedro is currently a Vissitor Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits and Systems and his main research interests include embedded systems, sensory and measurements systems, computer vision, among others.
 
-He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
-
-
+Electronics Engineer (year 1994) and Master in Telecommunications Systems (year 2000) from the Universidad de Oriente in Santiago de Cuba, Cuba. Between 1994 and 2001, he belonged to the faculty of the department of Telecommunications and Electronics of the Faculty of Electrical Engineering of said university. He received his Doctor of Philosophy (PhD) in Electronics: multisensory sensing and robotics systems.
