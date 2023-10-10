@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Gate2NES: Aprendizaje mediante el diseño de Videojuegos en Asignaturas de
-  Diseñode Sistemas Electrónicos basados en FPGAs�'
+  Diseñode Sistemas Electrónicos basados en FPGAs'
 subtitle: ''
 summary: ''
 authors:

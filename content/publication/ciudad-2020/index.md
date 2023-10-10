@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Diseño de una Arquitectura SoC con Periféricos Específicos para un Sistema
-  dePosicionamiento Ultrasónico
+title: Diseño de una Arquitectura SoC con Periféricos Específicos para un Sistema de Posicionamiento Ultrasónico
 subtitle: ''
 summary: ''
 authors:
