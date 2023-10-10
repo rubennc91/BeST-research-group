@@ -1,19 +1,14 @@
 ---
-# Display name
 title: Julio S. Lora Millán
 
-# Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position
 role: Assistant Professor
 
-# Organizations/Affiliations
 organizations:
 - name: Rey Juan Carlos University
   url: 'https://www.urjc.es'
 
-# Short bio (displayed in user profile at end of posts)
 bio: My research interests include rehabilitation robotics and assistive technology.
 
 education:
@@ -36,10 +31,7 @@ interests:
 - Aplied Neuroscience
 
 
-# Social/Academic Networking
-#  For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#  For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: university
   icon_pack: fas
@@ -53,25 +45,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b/
-# Link to a PDF of your resume/CV from the About widget.
-# -  To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#   - icon: cv
-#    icon_pack: ai
-#     link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "julio.lora@urjc.com"
 
-# Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#    Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
 Julio Lora is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Industrial Robotics and Control Engineering and his main research interests include rehabilitation robotics, assistive technologies and bioenegineering.
 
-He received his undergaduated formation at the University of Cordoba where he obtained a Bachelor's and Master's degree in Automatic Control and Industrial Electronic Engineering. In 2022, he obtained his PhD in Automatic Control and Robotics at Technical University of Madrid, while working as pre-doctoral researcher at the Centre of Automation and Robotics from the Spanish National Research Council. 
-
-
+He received his undergaduated formation at the University of Cordoba where he obtained a Bachelor's and Master's degree in Automatic Control and Industrial Electronic Engineering. In 2022, he obtained his PhD in Automatic Control and Robotics at Technical University of Madrid, while working as pre-doctoral researcher at the Centre of Automation and Robotics from the Spanish National Research Council.
