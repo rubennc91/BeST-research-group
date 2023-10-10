@@ -49,7 +49,7 @@ social:
   link: 'mailto:julio.lora@urjc.es'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.es/citations?user=6FaZevUAAAAJ&hl=es
+  link: https://scholar.google.es/citations?user=6FaZevUAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julio-salvador-lora-mill%C3%A1n-62b88221b/
