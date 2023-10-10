@@ -19,7 +19,7 @@ bio: My research interests include robotics, cloud computing, FPGAs, System-on-C
 education:
   courses:
   - course: Ph.D. in Electronics. Advanced Electronic Systems. Intelligent Systems
-    institution: University of Alcala
+    institution: University of Alcalá
     year: 2020
 #  - course: M.Sc. in Telecommunication Engineering
 #    institution: University of Alcala
@@ -42,7 +42,7 @@ interests:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#  form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: university
   icon_pack: fas
@@ -82,5 +82,3 @@ user_groups:
 Rubén Nieto is a Assistant Professor in the Department of Applied Mathematics, Materials Science and Engineering and Electronic Technology at Rey Juan Carlos University. He is involved in teaching of Electronic Systems Design and Design Of Electronic Circuits And Systems and his main research interests include robotics, cloud computing, FPGAs, System-on-Chip, among others.
 
 He received his formation at the University of Alcalá, where he obtained a Bachelor's degree, a Master's degree and his Doctor of Philosophy (PhD) in Electronics: Advanced Electronic Systems and Intelligent Systems. After obtaining his PhD, he was a postdoctoral researcher at the same University. 
-
-
